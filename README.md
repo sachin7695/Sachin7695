@@ -6,7 +6,7 @@
 <!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working with AUV Team Tiburon, NIT Rourkela
-- 🌱 I’m currently learning Deep learning and comupter vision 
+- 🌱 I’m currently learning Deep Learning and Comupter Vision 
 - 👯 I’m looking to collaborate on Hackathons 
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about  -->
