@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working with AUV Team Tiburon, NIT Rourkela
 - 🌱 I’m currently working on different project related to ComputerVison and Natural Language Processing
-- 👯 I’m looking to collaborate on Hackathons 
+- 👯 I’m looking to collaborate on Hackathons
  - 🤔 I’m looking for help with project ideas realted to NLP and CV
 <!-- - 💬 Ask me about  -->
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sachin-kumar-m-865807129/)
