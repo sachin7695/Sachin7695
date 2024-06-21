@@ -5,8 +5,8 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working with AUV Team Tiburon, NIT Rourkela
-- 🌱 I’m currently working on different project related to ComputerVison and Natural Language Processing
+<!-- 🔭 I’m currently working with AUV Team Tiburon, NIT Rourkela --->
+- 🌱 I’m currently working on different project related to ComputerVison and Gen AI
 - 👯 I’m looking to collaborate on Hackathons
  - 🤔 I’m looking for help with project ideas realted to NLP and CV
 <!-- - 💬 Ask me about  -->
