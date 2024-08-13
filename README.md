@@ -6,13 +6,13 @@
 <!-- Here are some ideas to get you started: -->
 
 <!-- 🔭 I’m currently working with AUV Team Tiburon, NIT Rourkela --->
-- 🌱 I’m currently working on different project related to ComputerVison and Gen AI
-- 👯 I’m looking to collaborate on Hackathons
+- 🌱 I’m currently working as  AI engineer at SeiSei.ai for high quality audio synthesis with different open source models
+- 👯 I’m looking to collaborate on research papers based on Natural Language Processing
  - 🤔 I’m looking for help with project ideas realted to NLP and CV
 <!-- - 💬 Ask me about  -->
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sachin-kumar-m-865807129/)
 <!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: I Like  -->
+- ⚡Fact:  Never understimate XGBoost(G.O.A.T) 😄
 
 <img src="https://github-readme-stats.vercel.app/api?username=sachin7695&hide_border=true&count_private=true&show_icons=true&theme=radical" align="centre">
 <img src ="https://github-readme-stats.vercel.app/api/top-langs?username=sachin7695&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" align ="centre">
