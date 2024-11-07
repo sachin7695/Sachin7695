@@ -6,7 +6,7 @@
 <!-- Here are some ideas to get you started: -->
 
 <!-- 🔭 I’m currently working with AUV Team Tiburon, NIT Rourkela --->
-- 🌱 I’m currently working as  an AI engineer at SeiSei.ai for high quality audio synthesis with different open source models
+- 🌱 I’m currently working as  an AI engineer to develop solution for high quality audio synthesis with different open source models
 - 👯 I’m looking to collaborate on research papers based on Natural Language Processing
  - 🤔 I’m looking for help with project ideas realted to NLP and CV
 <!-- - 💬 Ask me about  -->
